@@ -1,0 +1,28 @@
+{
+  "name": "vodacom_webapp",
+  "version": "1.0.0",
+  "description": "full stack webapp poc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveentak/vodacom_webapp.git"
+  },
+  "author": "Naveen Tak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveentak/vodacom_webapp/issues"
+  },
+  "homepage": "https://github.com/naveentak/vodacom_webapp#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongodb": "^3.1.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.15.1"
+  }
+}
